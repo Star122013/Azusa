@@ -1,2 +1,2 @@
 # Azusa
-Azusa Bot for persoonal use
+Azusa Bot for personal use
